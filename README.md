@@ -14,3 +14,5 @@ Currently, I am working on:
 - Building a neural network from scratch
 
 When I am not doing any of these things, I am either stressing over math, grinding [LeetCode](https://leetcode.com/u/sprucetreeleaf/), looping killers in Dead by Daylight, or dreading over my unemployment. 
+
+> *'Til 3005*
