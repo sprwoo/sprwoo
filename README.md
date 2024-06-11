@@ -15,4 +15,6 @@ Currently, I am working on:
 
 When I am not doing any of these things, I am either stressing over math, grinding [LeetCode](https://leetcode.com/u/sprucetreeleaf/), looping killers in Dead by Daylight, or dreading over my unemployment. 
 
+Feel free to contact me on [Linkedin](https://www.linkedin.com/in/yangiel/) if you need to for some reason. 
+
 > *'Til 3005.*
