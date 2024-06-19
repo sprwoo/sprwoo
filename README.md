@@ -5,7 +5,7 @@
 
 I'm Daniel Yang, or what I would prefer to go by in the sea of Daniel Yangs, **Woo**.
 
-I am a **pure mathematics** and **combinatorics/optimization** student at the **University of Waterloo**. I want to learn as much as I can to truly understand the mathematics behind computer science.
+I am (planning to be) a **pure mathematics** and **combinatorics/optimization** student at the **University of Waterloo**. I want to learn as much as I can to truly understand the mathematics behind computer science.
 
 Currently, I am working on:
 - *Microsoft Azure AI Certificate* through *WeAccelerate*
