@@ -1,6 +1,6 @@
 ## *You're telling me I actually have to build projects?*
 <div align="center">
-<img src="https://github.com/sprwoo/sprwoo/blob/main/IMG_9582.jpg" alt="take a break" width="600"/>
+<img src="https://github.com/sprwoo/sprwoo/blob/main/wiidy.png" alt="take a break" width="900"/>
 </div>
 
 I'm Daniel Yang, or what I would prefer to go by in the sea of Daniel Yangs, **Woo**.
