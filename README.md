@@ -8,9 +8,7 @@ I'm Daniel Yang, or just Yang or Woo or Daniel or whatever.
 I am (planning to be) a **pure mathematics** and **combinatorics/optimization** student at the **University of Waterloo**.
 
 Currently, I am working on:
-- Interning at the APILab at the University of Western
-- A project to help read research papers (its just claude wrapper really)
-- A CV thing (blackjack!)
+- getting cooked 
 
 When I am not doing any of these things, I am either stressing over math, playing Lash in Deadlock, or dreading over my inability to get a job. 
 
